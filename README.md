@@ -36,4 +36,4 @@ I have a background in mixed software such as:
 - style: Formatting, missing code, white space (This only applys to code not CSS for example.)
 - refactor: Maintainabilty or a functions method has been altered.
 - dep: Dependancies added to the project.
-  
+- del: Deleted or removed unused code, files or other assets.
