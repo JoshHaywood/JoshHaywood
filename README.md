@@ -25,15 +25,3 @@ I have a background in mixed software such as:
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">  
 </div>
-
-## Commit Message Key
-
-** If any words used in the commit log used before the content of the message are unfamilar refer to this key **
-
-- feat: A feature that has been added.
-- fix: Bug fix.
-- docs: Changes relating to documentation.
-- style: Formatting, missing code, white space (This only applys to code not CSS for example.)
-- refactor: Maintainabilty or a functions method has been altered.
-- dep: Dependancies added to the project.
-- del: Deleted or removed unused code, files or other assets.
