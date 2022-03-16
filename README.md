@@ -2,17 +2,13 @@
 
 I'm an aspiring Web Developer currently studying BSC Web Development.
 
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning CSS
+- 🔭 I’m currently working on a game reviewing app
+- 🌱 I’m currently learning React and Boostrap
 
 I have a background in mixed software such as:
 
-- Web Development
+- Full stack Web Development
 - Games in Unity
-- Graphic Design
-- Android Apps
-- Modelling
-- Texturing
 
 <div align="center">
   <h2>Skills<h2/>
