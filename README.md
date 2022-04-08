@@ -3,7 +3,7 @@
 I'm an aspiring Web Developer currently studying BSC Web Development.
 
 - 🔭 I’m currently working on a game reviewing app
-- 🌱 I’m currently learning React and Boostrap
+- 🌱 I’m currently learning React and Tailwind
 
 I have a background in mixed software such as:
 
@@ -17,9 +17,7 @@ I have a background in mixed software such as:
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
-  <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">  
 </div>
 
 ## Commit Message Key
