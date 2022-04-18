@@ -2,8 +2,8 @@
 
 I'm an aspiring Web Developer currently studying BSC Web Development.
 
-- 🔭 I’m currently working on a game reviewing app
-- 🌱 I’m currently learning React and Tailwind
+- 🔭 I’m currently working on creating the 3rd itteration of my portfolio site
+- 🌱 I’m currently learning React, Tailwind and Material UI
 
 I have a background in mixed software such as:
 
