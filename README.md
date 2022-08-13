@@ -16,6 +16,12 @@ I have a background in mixed software such as:
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain-wordmark.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img width="50px" height="50px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">
 </div>
