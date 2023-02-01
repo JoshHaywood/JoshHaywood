@@ -26,9 +26,9 @@ I am a student at Falmouth University from Devon, England studying for a BSc in 
  <div align="center">
   <h2>Github Stats</h2>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=JoshHaywood&show_icons=true&count_private=true&theme=dracula" />
+   <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=JoshHaywood&show_icons=true&count_private=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHaywood&layout=compact&theme=dracula" />
+   <img align="center" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHaywood&layout=compact&theme=dracula" />
   </a>  
  </div>
