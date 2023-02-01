@@ -1,3 +1,5 @@
+ <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60007942/216033120-bfb60529-2cce-4689-9281-719f5f812f96.png">
+
 ### Hi there 👋 I'm Josh
 
 I'm an aspiring Web Developer currently studying BSC Web Development.
@@ -11,8 +13,7 @@ I have a background in mixed software such as:
 - Games in Unity
 
 <div align="center">
-
-  <h2>Skills<h2/>
+  <h2>Technology Stack<h2/>
 
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain-wordmark.svg">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
