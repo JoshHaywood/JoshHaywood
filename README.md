@@ -1,7 +1,7 @@
- <img width="100%" height="100%" src="https://user-images.githubusercontent.com/60007942/216035168-39dc4b43-6b71-497d-9413-2ad0dbd167c8.png">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/60007942/216035168-39dc4b43-6b71-497d-9413-2ad0dbd167c8.png">
 
- <p align="center">
-I am a student at Falmouth University from Devon, England studying for a BSc in Web Development. My main interests lie in front-end, full-stack, and user interface development and design. I have recently been focusing on creating React and Node.js applications hosted on the cloud, as well as marketing myself through my portfolio site and CV. I make use of the latest web development trends and technologies, and I am always looking for new ways to improve my skills.
+<p align="center">
+I am a recent graduate from Falmouth University with a BSc in Web Development. Located in Devon, England, my main interests lie in front-end, full-stack, and user interface development and design. Recently, I have been focusing on creating full-stack RESTful APIs with React, Node.js, and TypeScript hosted on the cloud. Additionally, I have been actively marketing myself through my portfolio site and CV. I make use of the latest web development trends and technologies, and I am always looking for new ways to improve my skills.
  </p>
  
  &nbsp;
