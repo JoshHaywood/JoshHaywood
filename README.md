@@ -1,24 +1,31 @@
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/60007942/216035168-39dc4b43-6b71-497d-9413-2ad0dbd167c8.png">
+<a href="https://www.dbsne.com/">
+ <img width="100%" height="100%" src="https://github.com/JoshHaywood/JoshHaywood/assets/60007942/669d5a9d-1b6b-409b-9702-5466c9abae3d">
+</a>
 
-<p align="center">
-I am a recent graduate from Falmouth University with a BSc in Web Development. Located in Devon, England, my main interests lie in front-end, full-stack, and user interface development and design. Recently, I have been focusing on creating full-stack RESTful APIs with React, Node.js, and TypeScript hosted on the cloud. Additionally, I have been actively marketing myself through my portfolio site and CV. I make use of the latest web development trends and technologies, and I am always looking for new ways to improve my skills.
- </p>
- 
  &nbsp;
 
- <div align="center" style="margin-top: 20px">
+<p align="center">
+I am a Junior Software Developer at Direct Business Solutions, specialising in full-stack web development utilising a wide array of technologies such as React, Vue, TypeScript, Node.js, Express and SQL. My role as a developer includes maintaining and expanding upon our existing CRM software and contributing to several new customer-    oriented applications. I am consistently dedicated to integrating modern trends and paradigms into my workflow, aiming to enhance my skills as a developer and my effectiveness as a team member. My focus is on gaining industry-level experience and proactively addressing challenges, ensuring continuous improvement and adaptability in my role.
+</p>
+
+ &nbsp;
+ 
+ <div align="center">
    <h2>Technology Stack<h2/>
 
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain-wordmark.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+   <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg">  
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-   <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">  
+   <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Adonis.svg">  
+   <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">  
+   
  </div>
 
  &nbsp;
