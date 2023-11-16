@@ -33,9 +33,9 @@ I am a Junior Software Developer at Direct Business Solutions, specialising in f
  <div align="center">
   <h2>Github Stats</h2>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=JoshHaywood&show_icons=true&count_private=true&theme=dracula" />
+   <img align="center" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=JoshHaywood&show_icons=true&count_private=true&theme=nord" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHaywood&layout=compact&theme=dracula" />
+   <img align="center" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHaywood&layout=compact&theme=nord" />
   </a>  
  </div>
