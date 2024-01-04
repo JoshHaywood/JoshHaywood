@@ -5,7 +5,7 @@
  &nbsp;
 
 <p align="center">
-I am a Junior Software Developer at Direct Business Solutions, specialising in full-stack web development utilising a wide array of technologies such as React, Vue, TypeScript, Node.js, Express and SQL. My role as a developer includes maintaining and expanding upon our existing CRM software and contributing to several new customer-    oriented applications. I am consistently dedicated to integrating modern trends and paradigms into my workflow, aiming to enhance my skills as a developer and my effectiveness as a team member. My focus is on gaining industry-level experience and proactively addressing challenges, ensuring continuous improvement and adaptability in my role.
+I am a Software Developer at Direct Business Solutions, specialising in full-stack web development utilising a wide array of technologies such as React, Vue, TypeScript, Node.js, Express and SQL. My role as a developer includes maintaining and expanding upon our existing CRM software and contributing to several new customer-    oriented applications. I am consistently dedicated to integrating modern trends and paradigms into my workflow, aiming to enhance my skills as a developer and my effectiveness as a team member. My focus is on gaining industry-level experience and proactively addressing challenges, ensuring continuous improvement and adaptability in my role.
 </p>
 
  &nbsp;
