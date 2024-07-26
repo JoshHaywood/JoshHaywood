@@ -5,7 +5,7 @@
  &nbsp;
 
 <p align="center">
-I am a Software Developer at Direct Business Group, I specialize in full-stack web development using technologies such as React, Vue, TypeScript, Node.js, Express, and SQL. I am part of a team responsible for maintaining our existing CRM software and developing a new, advanced CRM system. Additionally, I contribute to various customer-oriented applications. By integrating modern development trends into my work, I seek to enhance my skills and deliver exceptional user experiences. Dedicated to growth and learning, I strive to address challenges effectively and contribute to the success of our projects and the growth of our team.
+I am a Software Engineer at Direct Business Group, I specialize in full-stack web development using technologies such as React, Vue, TypeScript, Node.js, Express, and SQL. I am part of a team responsible for maintaining our existing CRM software and developing a new, advanced CRM system. Additionally, I contribute to various customer-oriented applications. By integrating modern development trends into my work, I seek to enhance my skills and deliver exceptional user experiences. Dedicated to growth and learning, I strive to address challenges effectively and contribute to the success of our projects and the growth of our team.
 </p>
 
  &nbsp;
