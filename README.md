@@ -1,5 +1,5 @@
 <a href="https://www.dbsne.com/">
- <img width="100%" height="100%" src="https://github.com/JoshHaywood/JoshHaywood/assets/60007942/13f34f9a-a608-4dbc-bc91-228fbec1af09">
+ <img width="100%" height="100%" src="https://github.com/JoshHaywood/JoshHaywood/assets/60007942/f7a537c2-f43d-42e8-b480-cf53e813d6df">
 </a>
 
  &nbsp;
