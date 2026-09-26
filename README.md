@@ -10,15 +10,11 @@
 
 <div align="center">
   <p>
-    I’m a Software Engineer at Direct Global, working across frontend, backend and data systems.
+    I’m a Software Engineer working across frontend, backend and data systems, primarily with TypeScript, Vue, React, Node.js and PostgreSQL.
   </p>
 
   <p>
-    Most of my work is on internal business software, customer-facing applications and energy-data systems. I mainly use TypeScript, Vue, React, Node.js, PostgreSQL and TimescaleDB, working on everything from interfaces and APIs to database design, integrations and time-series processing.
-  </p>
-
-  <p>
-    I like working on practical problems where I can understand what people need, build the solution and support it once it’s in production.
+    My professional work spans internal business applications, customer-facing software and energy-data systems, including API integrations, database design, time-series processing and production support.
   </p>
 </div>
 
