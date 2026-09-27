@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    I’m a Software Engineer working across frontend, backend and data systems, primarily with TypeScript, Vue, React, Node.js and PostgreSQL.
+    I’m a full-stack software engineer with 3+ years’ commercial experience working across frontend, backend and data systems.
   </p>
 
   <p>
@@ -23,38 +23,12 @@
 <div align="center">
   <h2>Technology Stack</h2>
 
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="HTML">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS">
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
   <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Light.svg" alt="Vue">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass">
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS">
   <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express">
   <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Adonis.svg" alt="AdonisJS">
   <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL">
-</div>
-
-<br>
-
-<div align="center">
-  <h2>GitHub Stats</h2>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api?username=JoshHaywood&show_icons=true&count_private=true&theme=nord"
-      alt="Josh's GitHub stats"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      width="40%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshHaywood&layout=compact&theme=nord"
-      alt="Josh's most used languages"
-    />
-  </a>
 </div>
